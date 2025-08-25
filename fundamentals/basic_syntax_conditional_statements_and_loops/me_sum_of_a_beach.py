@@ -8,4 +8,3 @@ sun_count = new_word.count("sun")
 
 counter = sand_count + water_count + fish_count + sun_count
 print(counter)
-# nqkakva glupost tam de da znam
